@@ -1,0 +1,10 @@
+﻿  Camera.cpp
+  main.cpp
+D:\UTCN-files\GP\ProjectAttempt1\ProjectAttempt1\main.cpp(192,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UTCN-files\GP\ProjectAttempt1\ProjectAttempt1\main.cpp(193,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UTCN-files\GP\ProjectAttempt1\ProjectAttempt1\main.cpp(197,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN-files\GP\ProjectAttempt1\ProjectAttempt1\main.cpp(198,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN-files\GP\ProjectAttempt1\ProjectAttempt1\main.cpp(199,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UTCN-files\GP\ProjectAttempt1\ProjectAttempt1\main.cpp(200,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ProjectAttempt1.vcxproj -> D:\UTCN-files\GP\ProjectAttempt1\x64\Debug\ProjectAttempt1.exe
